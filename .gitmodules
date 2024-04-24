@@ -1,0 +1,6 @@
+[submodule "hamer"]
+	path = hamer
+	url = https://github.com/geopavlakos/hamer.git
+[submodule "EasyMocap"]
+	path = EasyMocap
+	url = https://github.com/zju3dv/EasyMocap.git
